@@ -17,3 +17,14 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+body{
+  background-color: greenyellow;
+  margin-top: 4rem;
+  margin-left: 6rem;
+}
+img{
+  height: 100px;
+
+  
+}
